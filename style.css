@@ -1,0 +1,53 @@
+
+#container {
+    border-radius: 3px;
+    position: relative;
+    margin:8% auto auto auto;
+    width: 550px;
+    padding: 70px;
+    display: table;
+    background-color: white;
+    text-align: center;
+}
+
+
+
+p {
+    font-size: 50px;
+}
+
+#bt1 { 
+    float: center;
+    padding-top: 30px;
+    padding-right: 0px;
+    display: inline-block;
+}
+
+#bt2 { 
+    float: center;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+#bt3 { 
+    float: center;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+ul.nav {
+    float: center;
+    padding-top: 30px;
+    padding-left: 0px;
+
+  }
+ul.nav > li {
+    float: none;
+    display: inline-block;
+    padding: 10px 30px;
+  }
+
+ul.nav > li > a {
+    color: white;
+    text-decoration: none;
+  }
