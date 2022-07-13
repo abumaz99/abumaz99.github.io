@@ -1,10 +1,9 @@
-
 #container {
-    border-radius: 3px;
+    border-radius: 3vw;
     position: relative;
     margin:8% auto auto auto;
-    width: 550px;
-    padding: 70px;
+    width: 55vw;
+    padding: 7vw;
     display: table;
     background-color: white;
     text-align: center;
@@ -18,33 +17,33 @@ p {
 
 #bt1 { 
     float: center;
-    padding-top: 30px;
-    padding-right: 0px;
+    padding-top: 3vw;
+    padding-right: 0vw;
     display: inline-block;
 }
 
 #bt2 { 
     float: center;
-    padding-top: 30px;
-    padding-left: 10px;
+    padding-top: 3vw;
+    padding-left: 1vw;
 }
 
 #bt3 { 
     float: center;
-    padding-top: 30px;
-    padding-left: 10px;
+    padding-top: 3vw;
+    padding-left: 1vw;
 }
 
 ul.nav {
     float: center;
-    padding-top: 30px;
-    padding-left: 0px;
+    padding-top: 3vw;
+    padding-left: 0vw;
 
   }
 ul.nav > li {
     float: none;
     display: inline-block;
-    padding: 10px 30px;
+    padding: 1vw 3.5vw;
   }
 
 ul.nav > li > a {
