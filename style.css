@@ -125,6 +125,17 @@ section p {
 
 .entry-title {
 	font-weight: 600;
+	display: inline-flex;
+	align-items: center;
+	gap: 0.45rem;
+}
+
+.entry-logo {
+	width: 2.7rem;
+	height: 2.7rem;
+	border-radius: 0.45rem;
+	object-fit: cover;
+	flex-shrink: 0;
 }
 
 .entry-org {
